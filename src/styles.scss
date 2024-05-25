@@ -1,0 +1,7 @@
+// variables del acordeón
+$accordion-button-active-bg: #fff;
+$accordion-button-active-color: #000;
+// borro la sombra del recuadro activo
+$accordion-button-focus-box-shadow: none;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
